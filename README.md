@@ -102,29 +102,19 @@ The insights generated from this analysis can help financial service providers:
 ## 📂 Repository Structure
 
 ```text
-Paisabazaar-Credit-Score-Analysis/
+Paisabazaar-Banking-Fraud-Analysis/
 │
 ├── data/
-│   ├── raw/
-│   └── processed/
+│   └── README.md                 
 │
 ├── notebooks/
-│   └── Paisabazaar_Credit_Score_Analysis.ipynb
+│   └── Paisabazaar_Banking_Fraud_Analysis.ipynb
 │
 ├── src/
-│   ├── data_cleaning.py
-│   ├── preprocessing.py
-│   ├── eda.py
-│   └── utils.py
+│   └── README.md                  
 │
-├── outputs/
-│   ├── figures/
-│   └── reports/
-│
-├── requirements.txt
-├── README.md
-├── .gitignore
-└── LICENSE
+├── README.md                      
+└── requirements.txt              
 ```
 
 ---
